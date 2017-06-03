@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author marco
+ *
+ */
+package string;
